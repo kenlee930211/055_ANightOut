@@ -1,0 +1,49 @@
+{
+  "name": "citrus",
+  "version": "0.0.4",
+  "scene-script": "panel/citrus.js",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/citrus/显示节点": { 
+      "message": "citrus:NodeActiveDis",
+      "accelerator": "alt+s"  
+    }, 
+    "i18n:MAIN_MENU.package.title/citrus/获取节点": {
+      "message": "citrus:GetNodeThree",   
+      "accelerator": "alt+c"     
+    }, 
+    "i18n:MAIN_MENU.package.title/citrus/重命名": {    
+      "message": "citrus:RestSetName", 
+      "accelerator": "alt+b"   
+    },
+    "i18n:MAIN_MENU.package.title/citrus/ImageJson": {
+      "message": "citrus:GetNodeImageThree",  
+      "accelerator": "alt+p" 
+    },
+    "i18n:MAIN_MENU.package.title/citrus/加载图片": {
+      "message": "citrus:LoadingImagee", 
+      "accelerator": "alt+o"
+    },
+    "i18n:MAIN_MENU.package.title/citrus/替换图片": {
+      "message": "citrus:ReplaceImagee",
+      "accelerator": "alt+i"
+    },
+    "i18n:MAIN_MENU.package.title/citrus/NodeJson": { 
+      "message": "citrus:Nodejson",
+      "accelerator": "alt+u"
+    }
+  } 
+}
+
+
+
+ 
+
+
+
+
+
+
+

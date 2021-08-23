@@ -1,0 +1,10 @@
+{
+    "WinningLine": {
+        "WonOnLine": "คุณชนะ {0} ในบรรทัด {1}",
+        "TotalWin": "คุณได้รับรางวัลทั้งหมด {0}"
+    },
+    "Logout": {
+        "ComfirmExitGame": "คุณแน่ใจว่าจะออกจากเกม?"
+    },
+    "InsufficientBalance": "เครดิตไม่เพียงพอ"
+}

@@ -1,0 +1,49 @@
+{
+  "ver": "2.3.5",
+  "uuid": "788eb15b-cc3c-46b4-9527-6c24967be976",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 45,
+  "height": 128,
+  "platformSettings": {
+    "default": {
+      "formats": [
+        {
+          "name": "png",
+          "quality": 80
+        },
+        {
+          "name": "webp",
+          "quality": 80
+        }
+      ]
+    }
+  },
+  "subMetas": {
+    "SafariBalanceNum": {
+      "ver": "1.0.4",
+      "uuid": "ba0b1174-ce4b-4e5e-9d6f-4ef8367b2660",
+      "rawTextureUuid": "788eb15b-cc3c-46b4-9527-6c24967be976",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 18.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 44,
+      "height": 91,
+      "rawWidth": 45,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

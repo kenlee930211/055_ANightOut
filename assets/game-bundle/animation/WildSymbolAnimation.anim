@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "WildSymbolAnimation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "bf8ac93c-3d7a-4587-8db8-c9e638b2e6b6"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "f86fd33c-f4fe-41c1-8be2-30a08631ba23"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "ee5a5691-a909-4a5e-8e35-06b959146d14"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "e5b0690c-0836-489d-97f5-d6612f5ca238"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "8c48e201-2dc9-4aad-a2b9-a8e9af410960"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "scale": []
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "BonusSymbolAnimation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e7213b86-9bd2-4fb4-8833-41a22b6b9164"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "725580e3-1765-457b-a98f-1d50980fff12"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "9e52fdfd-8a6f-4998-9e82-55b659092b23"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "7f877cd5-60e3-4201-9579-044ba499e989"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "10a8c860-d6c3-43fe-bb79-376ecdb9e96c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "create_event",
+  "version": "0.0.1",
+  "scene-script": "panel/event.js",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/create_event/node": {
+      "message": "create_event:create_node",
+      "accelerator": "Ctrl+1"
+    },
+    "i18n:MAIN_MENU.package.title/create_event/sprite": {
+      "message": "create_event:create_sprite",
+      "accelerator": "Ctrl+2"
+    },
+    "i18n:MAIN_MENU.package.title/create_event/button": {
+      "message": "create_event:create_button",
+      "accelerator": "Ctrl+3"
+    },
+    "i18n:MAIN_MENU.package.title/create_event/label": {
+      "message": "create_event:create_label",
+      "accelerator": "Ctrl+4"
+    }
+  }
+}

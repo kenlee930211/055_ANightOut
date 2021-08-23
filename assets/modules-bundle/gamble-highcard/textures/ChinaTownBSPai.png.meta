@@ -1,0 +1,49 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c1b1e53f-7cf4-4d49-8ac6-eba0daab3cf5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1965,
+  "height": 696,
+  "platformSettings": {
+    "default": {
+      "formats": [
+        {
+          "name": "png",
+          "quality": 80
+        },
+        {
+          "name": "webp",
+          "quality": 80
+        }
+      ]
+    }
+  },
+  "subMetas": {
+    "ChinaTownBSPai": {
+      "ver": "1.0.4",
+      "uuid": "86e8098d-dfe0-492d-a652-5dd994d5a0c9",
+      "rawTextureUuid": "c1b1e53f-7cf4-4d49-8ac6-eba0daab3cf5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1965,
+      "height": 696,
+      "rawWidth": 1965,
+      "rawHeight": 696,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

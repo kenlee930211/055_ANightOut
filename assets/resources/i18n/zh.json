@@ -1,0 +1,10 @@
+{
+    "WinningLine": {
+        "WonOnLine": "您在第 {1} 行赢了 {0}",
+        "TotalWin": "您总共赢了 {0}"
+    },
+    "Logout": {
+        "ComfirmExitGame": "你确定退出游戏？"
+    },
+    "InsufficientBalance": "余额不足"
+}

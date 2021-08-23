@@ -1,0 +1,42 @@
+{
+    "name": "gt3-super-template",
+    "version": "1.1.2",
+    "description": "Create slot machine games easily",
+    "main": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lint": "eslint assets --ext .js,.ts",
+        "bundle-plugins": "node plugin-bundle/index.js"
+    },
+    "author": "kang bao",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/riobs/gt3-super-template.git"
+    },
+    "keywords": [
+        "cocos",
+        "creator",
+        "gg",
+        "framework"
+    ],
+    "bugs": {
+        "url": "https://github.com/riobs/gt3-super-template/issues"
+    },
+    "homepage": "https://github.com/riobs/gt3-super-template#readme",
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^4.24.0",
+        "@typescript-eslint/parser": "^4.24.0",
+        "concat-files": "^0.1.1",
+        "eslint": "^7.26.0",
+        "eslint-config-alloy": "^4.1.0",
+        "eslint-config-prettier": "^8.3.0",
+        "prettier": "^2.3.0",
+        "typescript": "^4.2.4"
+    },
+    "dependencies": {
+        "axios": "^0.21.1",
+        "dayjs": "^1.10.5",
+        "decimal.js": "^10.2.1",
+        "ts-javascript-state-machine": "^3.1.3"
+    }
+}

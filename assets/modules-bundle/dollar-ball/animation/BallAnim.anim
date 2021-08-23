@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "BallAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 5,
+  "speed": 5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "1e13c0cb-81b4-4989-a4e2-03ed5ac9423f"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "51315d71-43fe-41a8-9d55-b95994a0bf14"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "73bacea5-eba7-41e0-aa41-91b603d20205"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "51315d71-43fe-41a8-9d55-b95994a0bf14"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "73bacea5-eba7-41e0-aa41-91b603d20205"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

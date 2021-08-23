@@ -1,0 +1,10 @@
+{
+    "WinningLine": {
+        "WonOnLine": "You won {0} on line {1}",
+        "TotalWin": "You won a total of {0}"
+    },
+    "Logout": {
+        "ComfirmExitGame": "Are you sure to exit game?"
+    },
+    "InsufficientBalance": "Insufficient balance"
+}

@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "HighPointAnimation3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 7,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d2e9ae47-0b98-4140-ae1d-0b7a0528a65e"
+            }
+          },
+          {
+            "frame": 0.14285714285714285,
+            "value": {
+              "__uuid__": "b22ecb83-b57f-4aac-a6db-3be1e11659b5"
+            }
+          },
+          {
+            "frame": 0.2857142857142857,
+            "value": {
+              "__uuid__": "68deef67-b9bc-49ec-91d5-afbe2b3e45c1"
+            }
+          },
+          {
+            "frame": 0.42857142857142855,
+            "value": {
+              "__uuid__": "6f62dff6-e33c-4350-a2ef-15b15b227612"
+            }
+          },
+          {
+            "frame": 0.5714285714285714,
+            "value": {
+              "__uuid__": "6760fd22-bd40-4000-ac13-9d96327d59a2"
+            }
+          },
+          {
+            "frame": 0.7142857142857143,
+            "value": {
+              "__uuid__": "e12e4cc4-35b3-4731-802d-bd03dbb1b04b"
+            }
+          },
+          {
+            "frame": 0.8571428571428571,
+            "value": {
+              "__uuid__": "b56c8691-3b5f-421e-9e11-7bbd834c13db"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

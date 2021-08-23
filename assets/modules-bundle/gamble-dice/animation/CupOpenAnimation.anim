@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "CupOpenAnimation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 2,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 84.091,
+          "curve": "linear"
+        },
+        {
+          "frame": 0.5,
+          "value": 270.7
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,2 @@
+-   Bundle all plugins into one
+-   Currentlly using manual way to copy and paste (WIP)

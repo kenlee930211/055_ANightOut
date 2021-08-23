@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "BigResultCardAnimation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 2,
+  "speed": 10,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5b6c1309-0b39-45a7-93d8-a82de563a6f3"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "bf0df00c-7fff-4c50-aabc-654f17171898"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

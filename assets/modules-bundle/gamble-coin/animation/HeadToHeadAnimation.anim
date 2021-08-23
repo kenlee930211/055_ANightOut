@@ -1,0 +1,94 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "HeadToHeadAnimation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5,
+  "sample": 6,
+  "speed": 1.6,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "766c6580-736a-4dd2-ac6b-677203ef9b2d"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "542af3b6-6e19-4ddd-810e-8695fb7d9d12"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "095314ae-1e3b-4a15-8ab4-0abeef9a941a"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "4019873b-4b5a-43d0-a5e8-e34b4202edf7"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "436fc83f-c888-4de3-a8ae-51bce43c47d9"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "cf795e15-c93d-41d3-b42a-b3e1ca20de8a"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "7a6a51d2-3686-48ae-aea8-358315bd86f0"
+            }
+          },
+          {
+            "frame": 1.1666666666666667,
+            "value": {
+              "__uuid__": "7b175e70-20d8-448e-8962-ce8f7678bd70"
+            }
+          },
+          {
+            "frame": 1.3333333333333333,
+            "value": {
+              "__uuid__": "6938914b-f501-4839-aba0-86230072f660"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -108.806,
+          "curve": "linear"
+        },
+        {
+          "frame": 0.5,
+          "value": 68.231
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": 32.823600000000006
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": -108.806
+        }
+      ]
+    }
+  },
+  "events": []
+}
